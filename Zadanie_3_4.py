@@ -14,3 +14,4 @@ for shop, product in shops_dict.items():
     print(f"Idę do {Shop}, kupuję tu następujące rzeczy:", Cap_product_list)
     product_list=product_list + product
 print(f"W sumie kupuję", len(product_list), "produktów.")
+print(f"W sumie kupuję", len(product_list), "produktów.")
